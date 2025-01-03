@@ -32,8 +32,6 @@ I'm always on the lookout for exciting opportunities to create meaningful applic
   <a href="nareshbabunuliuk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://nareshbabunuli.co.uk" target="_blank">
-    <a href="https://www.vecteezy.com/vector-art/6414199-globe-icon-vector-internet-web-symbol-isolated-on-white-background">globe icon vector. internet web symbol isolated on white background. Vectors by Vecteezy</a>  </a>
 </div>
 
 ### ⚡ Fun Fact
