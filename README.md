@@ -25,12 +25,19 @@ I'm always on the lookout for exciting opportunities to create meaningful applic
 - Team collaboration techniques
 
 ### 📫 How to Reach Me
-- Email: [Your Email Here]
-- LinkedIn: [Your LinkedIn Profile Here]
-- Portfolio: [nareshbabunuli.co.uk](https://nareshbabunuli.co.uk)
+<div align="left">
+  <a href="https://www.linkedin.com/in/nareshbabu-nuli-19450a250/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="nareshbabunuliuk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://nareshbabunuli.co.uk" target="_blank">
+    <a href="https://www.vecteezy.com/vector-art/6414199-globe-icon-vector-internet-web-symbol-isolated-on-white-background">globe icon vector. internet web symbol isolated on white background. Vectors by Vecteezy</a>  </a>
+</div>
 
 ### ⚡ Fun Fact
-When I’m not coding, I’m either exploring new technologies, reading about innovative solutions, or sharing knowledge with fellow developers.
+When not coding, I am either exploring new technologies, reading about innovative solutions, or sharing knowledge with fellow developers.
 
 ---
 
