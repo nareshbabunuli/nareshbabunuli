@@ -9,8 +9,7 @@ I specialize in developing web applications using a range of modern technologies
 - **Backend**: PHP (Laravel, Symfony), Python (Django, Flask)  
 - **Frontend**: React.js, JavaScript, HTML, CSS  
 - **APIs**: Skilled in integrating and creating APIs to add functional features  
-- **Collaboration**: Enthusiastic about working with cross-functional teams to deliver exceptional user experiences. |
-|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+- **Collaboration**: Enthusiastic about working with cross-functional teams to deliver exceptional user experiences.
 
 I love learning and staying updated with the latest industry trends, ensuring that my work is innovative and impactful. Sharing knowledge and growing together is my driving force.
 
