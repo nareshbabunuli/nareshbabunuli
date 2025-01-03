@@ -132,9 +132,6 @@ Let’s connect and create something extraordinary! 🚀
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nareshbabunuli/nareshbabunuli/output/snake.svg" alt="Snake animation" />
 
 ###
 
