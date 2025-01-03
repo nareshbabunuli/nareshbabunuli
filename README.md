@@ -3,6 +3,12 @@
 Welcome to my GitHub profile! I'm **Nareshbabu Nuli**, a passionate and experienced **Full Stack Developer** with over five years of expertise in building high-quality, scalable, and user-friendly web applications.
 
 # 🌟 Welcome to My Repository!
+###
+
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/1*HZxaIPW2WC_3OZ66Wf2O-w.gif"  />
+
+###
+
 
 ### 🌐 About Me  
 I specialize in developing web applications using a range of modern technologies:  
