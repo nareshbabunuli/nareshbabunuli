@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm **Nareshbabu Nuli**, a passionate and experien
 
 # 🌟 Welcome to My Repository!
 
-| ![Gif Example](https://giphy.com/embed/JZvkXE4tonN1SksYaj) | ### 🌐 About Me  
+| ![Gif Example]([https://giphy.com/embed/JZvkXE4tonN1SksYaj](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2gzYjM2YmR3YnI3YTh5eXBkaXJmZDllaHJlN2VzaXBzY2k2ZGViMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JZvkXE4tonN1SksYaj/giphy.webp)) | ### 🌐 About Me  
 I specialize in developing web applications using a range of modern technologies:  
 - **Backend**: PHP (Laravel, Symfony), Python (Django, Flask)  
 - **Frontend**: React.js, JavaScript, HTML, CSS  
