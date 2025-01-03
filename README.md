@@ -2,13 +2,15 @@
 
 Welcome to my GitHub profile! I'm **Nareshbabu Nuli**, a passionate and experienced **Full Stack Developer** with over five years of expertise in building high-quality, scalable, and user-friendly web applications.
 
-### 🌐 About Me
+# 🌟 Welcome to My Repository!
 
-I specialize in developing web applications using a range of modern technologies:
-- **Backend**: PHP (Laravel, Symfony), Python (Django, Flask)
-- **Frontend**: React.js, JavaScript, HTML, CSS
-- **APIs**: Skilled in integrating and creating APIs to add functional features
-- **Collaboration**: Enthusiastic about working with cross-functional teams to deliver exceptional user experiences.
+| ![Gif Example](https://giphy.com/embed/JZvkXE4tonN1SksYaj) | ### 🌐 About Me  
+I specialize in developing web applications using a range of modern technologies:  
+- **Backend**: PHP (Laravel, Symfony), Python (Django, Flask)  
+- **Frontend**: React.js, JavaScript, HTML, CSS  
+- **APIs**: Skilled in integrating and creating APIs to add functional features  
+- **Collaboration**: Enthusiastic about working with cross-functional teams to deliver exceptional user experiences. |
+|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 I love learning and staying updated with the latest industry trends, ensuring that my work is innovative and impactful. Sharing knowledge and growing together is my driving force.
 
@@ -24,22 +26,12 @@ I'm always on the lookout for exciting opportunities to create meaningful applic
 - API design and integration
 - Team collaboration techniques
 
-### 📫 How to Reach Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/nareshbabu-nuli-19450a250/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="nareshbabunuliuk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
 ### ⚡ Fun Fact
 When not coding, I am either exploring new technologies, reading about innovative solutions, or sharing knowledge with fellow developers.
 
 ---
 
-Let’s connect and create something extraordinary! 🚀
+Let’s connect 📫 and create something extraordinary! 🚀
 
 ###
 
